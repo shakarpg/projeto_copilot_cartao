@@ -1,6 +1,6 @@
 # 🏦 Projeto Validador de Cartão de Crédito
 
-Este projeto em Python permite validar números de cartões de crédito e identificar sua bandeira com base em padrões predefinidos.
+Este projeto em Python permite validar números de cartões de crédito e identificar sua bandeira com base em padrões predefinidos.Foi utilizador Github Copilot para criação do codigo conforme as imagens.
 
 ## 📌 Passo a passo para utilizar o projeto
 
